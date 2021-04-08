@@ -1,0 +1,40 @@
+{
+    "code": "0",
+    "data": {
+        "member_id": 31,
+        "email": "hk@163.com",
+        "phone": "18258135465",
+        "token": "iprp_member-0075de4bac094deaa480b309b8b85fe21ec9f961eece42429494383daa34b84b",
+        "nickname": "hk",
+        "truename": "lbc",
+        "avatar": "https://raw.githubusercontent.com/taylorchen709/markdown-images/master/vueadmin/user.png",
+        "sex": 1,
+        "memberIdentificationCard": "342530199302192316",
+        "member_industry": "互联网",
+        "login_num": 542,
+        "login_time": 1489643582711,
+        "old_login_time": 1489643582711,
+        "area_id": 1151,
+        "city_id": 74,
+        "province_id": 3,
+        "area_info": "河北省 唐山市 乐亭县",
+        "type": 0,
+        "organization": {
+            "organization_id": 0
+        },
+        "grade_id": 0,
+        "remind": 0,
+        "status": 1,
+        "member_address": "地址",
+        "parent": {
+            "member_id": 0
+        },
+        "firstChannel": {
+            "channel_id": 1,
+            "code": "sebe",
+            "name": "拾贝"
+        },
+        "create_time": 1479694624000,
+        "update_time": 1489545743000
+    }
+}
